@@ -1,3 +1,4 @@
+##Connor Gililland displays ASCII art
 class Display:
     ascii_art = [
 '''
